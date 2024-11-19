@@ -1,2 +1,1 @@
-## Extract Text From Images Using Python.
-
+# extract_text_from_iamge
