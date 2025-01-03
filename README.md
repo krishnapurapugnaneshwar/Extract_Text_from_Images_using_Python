@@ -1,1 +1,1 @@
-# extract_text_from_iamge
+# extract_text_from_image
